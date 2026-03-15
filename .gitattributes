@@ -1,0 +1,19 @@
+* text=auto
+
+*.cs text
+*.shader text
+*.cginc text
+*.unity text
+*.prefab text
+*.mat text
+*.asset text
+*.anim text
+*.controller text
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
